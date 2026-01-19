@@ -15,10 +15,10 @@ A modern, interactive tool for creating responsive CSS `clamp()` functions with 
 
 ## 🎮 Live Demo
 
-[![Open in Browser](https://img.shields.io/badge/Open-Live_Demo-8B5CF6?style=for-the-badge)](https://yourusername.github.io/clamp-generator)
+➡️ **[Try it now!](https://ashikhosenpro.github.io/Clamp-Generator/)**
 
 ## 🚀 Quick Start
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/clamp-generator.git
+   git clone https://github.com/ashikhosenpro/Clamp-Generator.git
