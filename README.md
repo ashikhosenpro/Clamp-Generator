@@ -2,8 +2,6 @@
 
 A modern, interactive tool for creating responsive CSS `clamp()` functions with real-time visual feedback.
 
-![Preview](https://img.shields.io/badge/Preview-Live-brightgreen) ![No Dependencies](https://img.shields.io/badge/Dependencies-None-success) ![License](https://img.shields.io/badge/License-MIT-blue)
-
 ## ✨ Features
 
 - 🎯 **Real-time preview** - See your clamp values update instantly
@@ -16,9 +14,3 @@ A modern, interactive tool for creating responsive CSS `clamp()` functions with 
 ## 🎮 Live Demo
 
 ➡️ **[Try it now!](https://ashikhosenpro.github.io/Clamp-Generator/)**
-
-## 🚀 Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ashikhosenpro/Clamp-Generator.git
