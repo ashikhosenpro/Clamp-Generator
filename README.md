@@ -1,45 +1,24 @@
-# Clamp-Generator
+# ⚡ Clamp Generator with Live Preview
 
-Clamp Generator with Live Preview ⚡
-A modern, interactive tool for generating fluid CSS clamp() values with real-time visual feedback.
+A modern, interactive tool for creating responsive CSS `clamp()` functions with real-time visual feedback.
 
-🎯 What It Does
-This tool helps you create responsive CSS clamp() functions for:
+![Preview](https://img.shields.io/badge/Preview-Live-brightgreen) ![No Dependencies](https://img.shields.io/badge/Dependencies-None-success) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Typography (font sizes for headings and body text)
+## ✨ Features
 
-Spacing (padding and margin on any side)
+- 🎯 **Real-time preview** - See your clamp values update instantly
+- 📐 **Visual spacing guides** - Watch padding/margin apply to selected sides
+- ♿ **Accessibility focus** - APCA contrast checking with quality ratings
+- 📱 **Device simulation** - Test on mobile, tablet, and desktop sizes
+- 📋 **One-click copy** - Copy generated clamp code instantly
+- 🚀 **Zero dependencies** - Pure HTML, CSS, and JavaScript
 
-With live preview that updates as you adjust values
+## 🎮 Live Demo
 
-Includes accessibility contrast checking with APCA scores
+[![Open in Browser](https://img.shields.io/badge/Open-Live_Demo-8B5CF6?style=for-the-badge)](https://yourusername.github.io/clamp-generator)
 
-✨ Features
-✅ Real-time preview - See your clamp values update instantly
-✅ Visual spacing guides - See padding/margin applied to selected sides
-✅ Accessibility focus - APCA contrast ratio checker with quality ratings
-✅ Device simulation - Test on mobile, tablet, and desktop sizes
-✅ Easy copy-paste - One-click copy of generated clamp code
-✅ No dependencies - Pure HTML, CSS, and JavaScript
+## 🚀 Quick Start
 
-🚀 How to Use
-Select a category (Heading, Body Text, Padding, or Margin)
-
-Adjust min/max values for your property
-
-Set viewport range (e.g., 375px to 1440px)
-
-Choose sides (for padding/margin) - optional
-
-Test contrast with color pickers
-
-Copy the clamp code and use in your projects!
-
-🎨 Preview Features
-Drag the resizer to test any screen width
-
-Click device buttons for common breakpoints
-
-See calculated values in real-time
-
-Check contrast scores for accessibility
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/clamp-generator.git
